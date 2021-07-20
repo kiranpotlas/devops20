@@ -1,0 +1,2 @@
+this is my first desktopfile
+i have added this file using echo command to the existed data 
